@@ -1,0 +1,1 @@
+The name 'Kardenwort' evokes carding—the process of combing and straightening tangled fibers. In the same way, our toolkit processes raw, complex texts, meticulously organizing them into simple, clear, and context-rich vocabulary lists for language learners.
