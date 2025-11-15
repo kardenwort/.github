@@ -158,22 +158,26 @@ Currently, Kardenwort fully supports **English (en)** and **German (de)**. We pl
 
 Kardenwort is a suite of integrated tools designed to work together seamlessly:
 
-*   **Kardenwort (Core Engine):** [**`20250913122858-kardenwort`**](https://github.com/kardenwort/20250913122858-kardenwort): The core intelligent engine for text processing and vocabulary extraction.
-*   **Anki CSV Importer:** [**`20250913123240-kardenwort-anki-csv-importer`**](https://github.com/kardenwort/20250913123240-kardenwort-anki-csv-importer): The bridge that automatically imports the generated vocabulary files into Anki.
-*   **Anki Templates:** [**`20250913123501-kardenwort-anki-templates`**](https://github.com/kardenwort/20250913123501-kardenwort-anki-templates): The powerful and feature-rich Anki card template that brings your vocabulary to life.
-*   **AnkiConnect Fork:** [**`20251110002755-kardenwort-ankiconnect`**](https://github.com/voothi/20251110002755-kardenwort-ankiconnect): This is a custom build of the official AnkiConnect add-on, extended with a new API action to enable deeper integration with external tools, specifically the Kardenwort language learning ecosystem.
+*   **Kardenwort (Core Engine):** [**`20250913122858-kardenwort`**](https://github.com/kardenwort/20250913122858-kardenwort)
+    *   The core intelligent engine for text processing and vocabulary extraction.
+*   **Anki CSV Importer:** [**`20250913123240-kardenwort-anki-csv-importer`**](https://github.com/kardenwort/20250913123240-kardenwort-anki-csv-importer)
+    *   The bridge that automatically imports the generated vocabulary files into Anki.
+*   **Anki Templates:** [**`20250913123501-kardenwort-anki-templates`**](https://github.com/kardenwort/20250913123501-kardenwort-anki-templates)
+    *   The powerful and feature-rich Anki card template that brings your vocabulary to life.
+*   **AnkiConnect Fork:** [**`20251110002755-kardenwort-ankiconnect`**](https://github.com/voothi/20251110002755-kardenwort-ankiconnect)
+    *   This is a custom build of the official AnkiConnect add-on, extended with a new API action to enable deeper integration with external tools, specifically the Kardenwort language learning ecosystem.
 
 ## Development Repositories
 
 For those who want the latest features, bug fixes, or wish to explore the development history, we maintain a set of active development repositories. Code is periodically merged from these repos into the stable public ones listed above.
 
-*   **Kardenwort (Core Engine):** [https://github.com/voothi/20241223170748-kardenwort](https://github.com/voothi/20241223170748-kardenwort)
-*   **Anki CSV Importer:** [https://github.com/voothi/20250401192017-kardenwort-anki-csv-importer](https://github.com/voothi/20250401192017-kardenwort-anki-csv-importer)
-*   **Anki Templates:** [https://github.com/voothi/20241106211123-kardenwort-anki-templates](https://github.com/voothi/20241106211123-kardenwort-anki-templates)
-*   **AnkiConnect Fork:** [https://github.com/voothi/20251110002755-kardenwort-ankiconnect](https://github.com/voothi/20251110002755-kardenwort-ankiconnect)
+*   **Kardenwort (Core Engine):** [**`https://github.com/voothi/20241223170748-kardenwort`**](https://github.com/voothi/20241223170748-kardenwort)
+*   **Anki CSV Importer:** [**`https://github.com/voothi/20250401192017-kardenwort-anki-csv-importer`**](https://github.com/voothi/20250401192017-kardenwort-anki-csv-importer)
+*   **Anki Templates:** [**`https://github.com/voothi/20241106211123-kardenwort-anki-templates`**](https://github.com/voothi/20241106211123-kardenwort-anki-templates)
+*   **AnkiConnect Fork:** [**`https://github.com/voothi/20251110002755-kardenwort-ankiconnect`**](https://github.com/voothi/20251110002755-kardenwort-ankiconnect)
 
 **Related Repositories in Development:**
-*   **AutoHotkey Scripts:** [https://github.com/voothi/20240411110510-autohotkey](https://github.com/voothi/20240411110510-autohotkey)
+*   **AutoHotkey Scripts:** [**`https://github.com/voothi/20240411110510-autohotkey`**](https://github.com/voothi/20240411110510-autohotkey)
 
 [Return to Top](#map-of-contents)
 
