@@ -158,10 +158,10 @@ Currently, Kardenwort fully supports **English (en)** and **German (de)**. We pl
 
 Kardenwort is a suite of integrated tools designed to work together seamlessly:
 
-*   [**`20250913122858-kardenwort`**](https://github.com/kardenwort/20250913122858-kardenwort): The core intelligent engine for text processing and vocabulary extraction.
-*   [**`20250913123240-kardenwort-anki-csv-importer`**](https://github.com/kardenwort/20250913123240-kardenwort-anki-csv-importer): The bridge that automatically imports the generated vocabulary files into Anki.
-*   [**`20250913123501-kardenwort-anki-templates`**](https://github.com/kardenwort/20250913123501-kardenwort-anki-templates): The powerful and feature-rich Anki card template that brings your vocabulary to life.
-*   [**`20251110002755-kardenwort-ankiconnect`**](https://github.com/voothi/20251110002755-kardenwort-ankiconnect): This is a custom build of the official AnkiConnect add-on, extended with a new API action to enable deeper integration with external tools, specifically the Kardenwort language learning ecosystem.
+*   **Kardenwort (Core Engine):** [**`20250913122858-kardenwort`**](https://github.com/kardenwort/20250913122858-kardenwort): The core intelligent engine for text processing and vocabulary extraction.
+*   **Anki CSV Importer:** [**`20250913123240-kardenwort-anki-csv-importer`**](https://github.com/kardenwort/20250913123240-kardenwort-anki-csv-importer): The bridge that automatically imports the generated vocabulary files into Anki.
+*   **Anki Templates:** [**`20250913123501-kardenwort-anki-templates`**](https://github.com/kardenwort/20250913123501-kardenwort-anki-templates): The powerful and feature-rich Anki card template that brings your vocabulary to life.
+*   **AnkiConnect Fork:** [**`20251110002755-kardenwort-ankiconnect`**](https://github.com/voothi/20251110002755-kardenwort-ankiconnect): This is a custom build of the official AnkiConnect add-on, extended with a new API action to enable deeper integration with external tools, specifically the Kardenwort language learning ecosystem.
 
 ## Development Repositories
 
