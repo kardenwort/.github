@@ -49,8 +49,6 @@ The `README.md` file in that repository provides a complete, step-by-step guide 
     *   [For Learners of All Styles](#for-learners-of-all-styles)
 *   [The Vision: A Bridge Between Cultures](#the-vision-a-bridge-between-cultures)
 *   [Our Ecosystem](#our-ecosystem)
-*   [Development Repositories](#development-repositories)
-*   [Kardenwort Ecosystem](#kardenwort-ecosystem)
 *   [License & Creator](#license--creator)
 
 ---
@@ -167,26 +165,6 @@ Kardenwort is a suite of integrated tools designed to work together seamlessly:
     *   The powerful and feature-rich Anki card template that brings your vocabulary to life.
 *   **AnkiConnect Fork:** [**20251110002755-kardenwort-ankiconnect**](https://github.com/voothi/20251110002755-kardenwort-ankiconnect)
     *   This is a custom build of the official AnkiConnect add-on, extended with a new API action to enable deeper integration with external tools, specifically the Kardenwort language learning ecosystem.
-
-## Development Repositories
-
-For those who want the latest features, bug fixes, or wish to explore the development history, we maintain a set of active development repositories. Code is periodically merged from these repos into the stable public ones listed above.
-
-*   **Kardenwort (Core Engine):** [**20241223170748-kardenwort**](https://github.com/voothi/20241223170748-kardenwort)
-*   **Anki CSV Importer:** [**20250401192017-kardenwort-anki-csv-importer**](https://github.com/voothi/20250401192017-kardenwort-anki-csv-importer)
-*   **Anki Templates:** [**20241106211123-kardenwort-anki-templates**](https://github.com/voothi/20241106211123-kardenwort-anki-templates)
-*   **AnkiConnect Fork:** [**20251110002755-kardenwort-ankiconnect**](https://github.com/voothi/20251110002755-kardenwort-ankiconnect)
-
-**Related Repositories in Development:**
-*   **AutoHotkey Scripts:** [**20240411110510-autohotkey**](https://github.com/voothi/20240411110510-autohotkey)
-
-[Return to Top](#map-of-contents)
-
-## Kardenwort Ecosystem
-
-This project is part of the **[Kardenwort](https://github.com/kardenwort)** environment, designed to create a focused and efficient learning ecosystem.
-
-[Return to Top](#map-of-contents)
 
 ---
 
