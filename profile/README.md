@@ -157,14 +157,18 @@ Currently, Kardenwort fully supports **English (en)** and **German (de)**. We pl
 
 Kardenwort is a suite of integrated tools designed to work together seamlessly:
 
-*   **Kardenwort (Core Engine):** [**20250913122858-kardenwort**](https://github.com/kardenwort/20250913122858-kardenwort)
+*   **Kardenwort (Core Engine):**
     *   The core intelligent engine for text processing and vocabulary extraction.
-*   **Anki CSV Importer:** [**20250913123240-kardenwort-anki-csv-importer**](https://github.com/kardenwort/20250913123240-kardenwort-anki-csv-importer)
+    *   [**20250913122858-kardenwort**](https://github.com/kardenwort/20250913122858-kardenwort)
+*   **Anki CSV Importer:**
     *   The bridge that automatically imports the generated vocabulary files into Anki.
-*   **Anki Templates:** [**20250913123501-kardenwort-anki-templates**](https://github.com/kardenwort/20250913123501-kardenwort-anki-templates)
+    *   [**20250913123240-kardenwort-anki-csv-importer**](https://github.com/kardenwort/20250913123240-kardenwort-anki-csv-importer)
+*   **Anki Templates:**
     *   The powerful and feature-rich Anki card template that brings your vocabulary to life.
-*   **AnkiConnect Fork:** [**20251110002755-kardenwort-ankiconnect**](https://github.com/voothi/20251110002755-kardenwort-ankiconnect)
+    *   [**20250913123501-kardenwort-anki-templates**](https://github.com/kardenwort/20250913123501-kardenwort-anki-templates)
+*   **AnkiConnect Fork:**
     *   This is a custom build of the official AnkiConnect add-on, extended with a new API action to enable deeper integration with external tools, specifically the Kardenwort language learning ecosystem.
+    *   [**20251110002755-kardenwort-ankiconnect**](https://github.com/voothi/20251110002755-kardenwort-ankiconnect)
 
 ---
 
